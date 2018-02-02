@@ -27,3 +27,4 @@ Following is a set of link for assitance of building your own maven archetype
 
 [Are there other default maven archetype properties](https://stackoverflow.com/questions/6537861/are-there-other-default-maven-archetype-properties)
 
+[Setting up Multiple Repositories](http://maven.apache.org/guides/mini/guide-multiple-repositories.html)
